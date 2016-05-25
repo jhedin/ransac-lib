@@ -1,0 +1,24 @@
+{
+  "name": "ransac-lib",
+  "version": "1.0.0",
+  "description": "library of functions to run node-ransac",
+  "main": "ransac-lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhedin/ransac-lib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhedin/ransac-lib/issues"
+  },
+  "homepage": "https://github.com/jhedin/ransac-lib#readme",
+  "dependencies": {
+    "node-ransac": "1.0.1",
+    "ransac-linear-fit": "1.0.0",
+    "ransac-linear-fit-2d": "1.0.0"
+  }
+}
